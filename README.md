@@ -1,11 +1,5 @@
 # Creating_classes_with_the_Transforming_interface
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="result.png">
- <source media="(prefers-color-scheme: light)" srcset="result.png">
- <img alt="YOUR-ALT-TEXT" src="result.png">
-</picture>
-
 =======
 Демонстрация работы:
 
