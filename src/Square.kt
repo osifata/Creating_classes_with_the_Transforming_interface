@@ -1,0 +1,1 @@
+class Square(id:Int, x: Int, y: Int, val side: Int) :Rect(id, x, y, side, side)
