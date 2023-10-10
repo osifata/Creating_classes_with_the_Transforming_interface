@@ -1,5 +1,7 @@
 # Creating_classes_with_the_Transforming_interface
 Демонстрация работы
+
+
 Увеличимаем фигуру в 5 раза. Новый радиус: 20.0.
 Вращаем круг CounterClockwise вокруг точки (0, 3).
 Площадь круга: 50.265484
