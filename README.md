@@ -1,5 +1,5 @@
 # Creating_classes_with_the_Transforming_interface
-Демонстрация работы
+Демонстрация работы:
 
 
 Увеличимаем фигуру в 5 раза. Новый радиус: 20.0.
