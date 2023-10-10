@@ -1,6 +1,6 @@
 # Creating_classes_with_the_Transforming_interface
 
-![alt text](result.png)
+![What is this](result.png)
 =======
 Демонстрация работы:
 
