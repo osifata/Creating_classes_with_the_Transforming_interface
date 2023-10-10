@@ -1,6 +1,6 @@
 # Creating_classes_with_the_Transforming_interface
-<<<<<<< HEAD
-![Alt text](image.png)
+
+![alt text](result.png)
 =======
 Демонстрация работы:
 
@@ -18,4 +18,3 @@
 Вращаем прямоугольник Clockwise вокруг точки (-1, 3).
 Координаты после перемещения 3, 3
 Площадь квадрата: 9.0
->>>>>>> 9a8b5ba4f69ec15d1a18f9bb61475492bfc6e550
